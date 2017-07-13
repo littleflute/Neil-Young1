@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/Neil-Young1/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/Neil-Young1/edit/master/README.md)
 
 [Everybody Knows This Is Nowhere](Everybody Knows This Is Nowhere)
 
@@ -9,6 +9,9 @@
 [Monsanto Years (CD-DVD) Disc 1](Monsanto Years [CD-DVD] Disc 1)
 
 [On the Beach](On the Beach)
+
+[Storytone (Deluxe Edition) (LP) Disc 2](Storytone [Deluxe Edition] [LP] Disc 2)
+
 
 [https://littleflute.github.io/Neil-Young](https://littleflute.github.io/Neil-Young)
 
