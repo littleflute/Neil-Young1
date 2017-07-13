@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 My My, Hey Hey (Out of the Blue).mp3";		
+f[2]	= "03 Ride My Llama.mp3";		
+f[3]	= "05 Sail Away.mp3";		
+f[4]	= "07 Welfare Mothers.mp3";		
+f[5]	= "08 Sedan Delivery.mp3";		
+f[6]	= "09 Hey Hey, My My (Into the Black).mp3";		
+f[7]	= "Pocahontas.mp3";		
+f[8]	= "Powderfinger.mp3";		
+f[9]	= "Thrasher.mp3";		
