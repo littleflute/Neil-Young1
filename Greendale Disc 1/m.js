@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Falling from Above.mp3";		
+f[2]	= "02 Double E.mp3";		
+f[3]	= "03 Devil's Sidewalk.mp3";		
+f[4]	= "04 Leave the Driving.mp3";		
+f[5]	= "07 Grandpa's Interview.mp3";		
+f[6]	= "08 Bringin' Down Dinner.mp3";		
+f[7]	= "09 Sun Green.mp3";		
+f[8]	= "10 Be the Rain.mp3";		
+f[9]	= "Bandit.mp3";		
+f[10]	= "Carmichael.mp3";		
