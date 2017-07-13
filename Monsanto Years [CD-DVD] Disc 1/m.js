@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 A New Day for Love.mp3";		
+f[2]	= "02 Wolf Moon.mp3";		
+f[3]	= "03 People Want to Hear About Love.mp3";		
+f[4]	= "04 Big Box.mp3";		
+f[5]	= "05 A Rock Star Bucks a Coffee Shop.mp3";		
+f[6]	= "06 Workin' Man.mp3";		
+f[7]	= "07 Rules of Change.mp3";		
+f[8]	= "08 Monsanto Years.mp3";		
+f[9]	= "09 If I Don't Know.mp3";		
