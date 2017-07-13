@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Til the Morning Comes (Intro).mp3";		
+f[2]	= "02 The Needle and the Damage Done.mp3";		
+f[3]	= "03 Mr. Soul.mp3";		
+f[4]	= "04 Cowgirl in the Sand.mp3";		
+f[5]	= "05 Only Love Can Break Your Heart.mp3";		
+f[6]	= "06 Old Man (Take a Look at My Life).mp3";		
+f[7]	= "07 After the Gold Rush (Interlude).mp3";		
+f[8]	= "08 Cinnamon Girl.mp3";		
+f[9]	= "09 Southern Man.mp3";		
+f[10]	= "11 Hey Hey, My My (Out of the Blue, into the Black).mp3";		
+f[11]	= "12 Everybody Knows This Is Nowhere.mp3";		
+f[12]	= "13 Comes a Time.mp3";		
+f[13]	= "14 Til the Morning Comes (Reprise).mp3";		
+f[14]	= "Ohio.mp3";		
