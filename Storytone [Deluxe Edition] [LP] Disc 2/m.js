@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Plastic Flowers.mp3";		
+f[2]	= "02 Who's Gonna Stand Up-.mp3";		
+f[3]	= "03 I Want to Drive My Car.mp3";		
+f[4]	= "05 Say Hello to Chicago.mp3";		
+f[5]	= "07 Like You Used to Do.mp3";		
+f[6]	= "08 I'm Glad I Found You.mp3";		
+f[7]	= "09 When I Watch You Sleeping.mp3";		
+f[8]	= "10 All Those Dreams.mp3";		
+f[9]	= "Glimmer.mp3";		
+f[10]	= "Tumbleweed.mp3";		
